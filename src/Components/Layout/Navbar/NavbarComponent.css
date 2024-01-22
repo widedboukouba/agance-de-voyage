@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.nav-link {
+    text-decoration: none;
+  }
+  
+#sidelinks{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid blue;
+  }
+  ul{
+    display: flex;
+ 
+  }
+li{
+display: flex;
+ list-style: none;
+justify-items: baseline;
+}
